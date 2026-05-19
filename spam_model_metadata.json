@@ -1,0 +1,19 @@
+{
+  "dataset_kind": "text",
+  "model_path": "spam_model.joblib",
+  "text_columns": [
+    "text",
+    "message",
+    "email",
+    "content",
+    "chat"
+  ],
+  "label_columns": [
+    "label",
+    "target",
+    "class",
+    "spam",
+    "prediction",
+    "category"
+  ]
+}
